@@ -1,14 +1,12 @@
-## Hi there 👋
+# Hi I'm Parsh Jain
 
-# Hi 👋 I'm Parsh Jain
+CSE @ IIIT Delhi  
+Passionate about DSA, Systems & Web Dev  
 
-🚀 CSE @ IIIT Delhi  
-💻 Passionate about DSA, Systems & Web Dev  
-
-## 📊 GitHub Stats
+## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Parsh-Jain&show_icons=true)
 
-## 🔥 Streak
+## Streak
 ![Streak](https://streak-stats.demolab.com?user=Parsh-Jain)
 
 <!--
